@@ -1,0 +1,16 @@
+﻿.content {
+    width: 50rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.6rem;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 3rem;
+}
+
+.buttonPanel {
+    display: flex;
+    align-items: center;
+    gap: 1.4rem;
+}

@@ -1,0 +1,8 @@
+﻿.upperShadow {
+    height: 4rem;
+    background-color: aqua;
+    width: 100%;
+    box-shadow: 0 .25rem 1rem rgba(0, 0, 0, .1);
+    position: fixed;
+    top: -4rem;
+}
